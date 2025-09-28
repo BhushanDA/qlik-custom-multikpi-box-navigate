@@ -1,0 +1,9 @@
+{
+	"name": "MultiKPI_Navigate",
+	"description": "Single KPI Box Extension",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Gov",
+	"icon": "extension",
+	"preview": "extension.png"
+}
